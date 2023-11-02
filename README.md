@@ -1,3 +1,4 @@
 # odin-recipes
 
-First The Odin Project project to verify HTML knowledge
+First The Odin Project project to repractice some HTML
+Also to practice better commit messages
